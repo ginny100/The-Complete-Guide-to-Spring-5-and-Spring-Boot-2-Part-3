@@ -10,7 +10,7 @@ This course is well-organized with high-quality content.
 
 - Lesson 1: [Creating a JDBC Starter Project](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson1.md)
 - Lesson 2: [Setting up the H2 Database](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson2.md)
-- 
+- Lesson 3: [SELECT Query](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson3.md)
 
 ## Other Parts
 
