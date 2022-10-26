@@ -16,10 +16,7 @@ public class TennisPlayerApplication implements CommandLineRunner {
 	@Autowired
 	PlayerDao dao;
 
-	public static void main(String[] args) {
-		SpringApplication.run(TennisPlayerApplication.class, args);
-	}
-
+	public static void main(String[] args) { SpringApplication.run(TennisPlayerApplication.class, args); }
 	@Override
 	public void run(String... args) throws Exception {
 		// Get info of all players
