@@ -1,6 +1,6 @@
 # The Complete Guide to Spring 5 and Spring Boot 2 - Part 3
 
-This repo contains all of my codes from the fourth chapter in [The Complete Guide to Spring 5 and Spring Boot 2](https://www.educative.io/courses/guide-spring-5-spring-boot-2) by [DataJek](https://www.educative.io/profile/view/5352985413550080) on [educative.io](https://www.educative.io/).
+This repo contains all of my codes from the fourth and fifth chapters in [The Complete Guide to Spring 5 and Spring Boot 2](https://www.educative.io/courses/guide-spring-5-spring-boot-2) by [DataJek](https://www.educative.io/profile/view/5352985413550080) on [educative.io](https://www.educative.io/).
 
 This course is well-organized with high-quality content.
 
@@ -17,6 +17,10 @@ This course is well-organized with high-quality content.
 - Lesson 7: [DDL Queries](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson7.md)
 - Lesson 8: [Custom RowMapper](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson8.md)
 - Lesson 9: [Connecting to Other Databases](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson9.md)
+
+### 5. Spring Data JPA
+
+- Lesson 10: [What is JPA?]()
 
 ## Other Parts
 
