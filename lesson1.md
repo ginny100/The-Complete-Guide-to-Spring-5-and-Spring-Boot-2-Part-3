@@ -8,6 +8,9 @@ Using the Spring `JdbcTemplate`, a Java application can store and retrieve objec
 
 <img src="images/img1.png" width="500">
 
+> Note from `ginny100`: In this repo, the package `io.datajek.springdata.tennisplayer` is for Chapter 4 and `io.datajek.springdatajpa.tennisplayer` is for Chapter 5.
+
+
 ## Demonstrated Concepts
 
 ### Spring Boot JDBC
