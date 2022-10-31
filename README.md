@@ -23,10 +23,10 @@ This course is well-organized with high-quality content.
 - Lesson 10: [What is JPA?](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson10.md)
 - Lesson 11: [Defining an Entity](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson11.md)
 - Lesson 12: [Creating a Repository](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson12.md)
-- Lesson 13: [CRUD Operations]()
-- Lesson 14: [JPQL Named Query]()
-- Lesson 15: [Spring Data JPA]()
-- Lesson 16: [Connecting to Other Databases]()
+- Lesson 13: [CRUD Operations](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson13.md)
+- Lesson 14: [JPQL Named Query](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson14.md)
+- Lesson 15: [Spring Data JPA](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson15.md)
+- Lesson 16: [Connecting to Other Databases](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3/blob/master/lesson16.md)
 
 ## Other Parts
 
