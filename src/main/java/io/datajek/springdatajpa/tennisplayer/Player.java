@@ -3,10 +3,12 @@ package io.datajek.springdatajpa.tennisplayer;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.NamedQuery;
 import java.sql.Date;
 
 @Entity
 //@Table(name="Player") // Not needed because the name of the entity and table match
+@NamedQuery(name="get_all_players", query="select p from Player p")
 public class Player {
     @Id
     @GeneratedValue
