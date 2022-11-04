@@ -32,4 +32,5 @@ This course is well-organized with high-quality content.
 
 - Part 1: [The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-1](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-1)
 - Part 2: [The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2)
-- Part 4: [The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-4](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-4)
+- Part 4-1: [The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-4-1](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-4-1)
+- Part 4-2: [The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-4-2](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-4-2)
