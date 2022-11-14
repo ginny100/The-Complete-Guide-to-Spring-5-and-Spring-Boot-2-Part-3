@@ -95,7 +95,18 @@ When using JPA, we do not need to create a table. We will comment out the table 
 
 After running the application, it can be confirmed from the H2 console — `http://localhost:8080/h2-console` (using JDBC URL: `jdbc:h2:mem:testdb`) — that a `Player` table has been created.
 
-> Note from `ginny100`: 
+> __Note from `ginny100`:__ 
 > - In this repo, the package `io.datajek.springdata.tennisplayer` is for Chapter 4 and `io.datajek.springdatajpa.tennisplayer` is for Chapter 5.
 > 
 > - Chapter 4 requires the `schema.sql` and `data.sql` files in order to run successfully, but Chapter 5 does not. Therefore, I highly recommend create a whole new project using Spring Initializr dedicated for Chapter 5 with the `io.datajek.springdatajpa.tennisplayer` package in the source code and the `schema.sql` and `data.sql` files removed.
+
+> __Note from `ginny100`:__ Since I don't customize the h2 database configuration properties in the `application.properties` file, the information used in the h2-console login page is all default.
+> 
+> | Field          | Value                 |
+> |----------------|-----------------------|
+> | Saved Settings | Generic H2 (Embedded) |
+> | Setting Name   | Generic H2 (Embedded) |
+> | Driver Class   | org.h2.Driver         |
+> | JDBC URL       | jdbc:h2:mem:testdb    |
+> | User Name      | sa                    |
+> | Password       |                       |
