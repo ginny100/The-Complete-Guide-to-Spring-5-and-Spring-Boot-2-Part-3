@@ -72,3 +72,14 @@ VALUES(3, 'Isner', 'USA', '1985-04-26', 15);
 Now if we run the application, the data is read from the `data.sql` file and the `Player` table is populated. We can run the `SELECT * FROM Player;` query to confirm that our table has 3 rows.
 
 In the login page that shows up, make sure that the JDBC URL is the same as the one that we specified in step 1 (`jdbc:h2:mem:testdb`).
+
+> __Note from `ginny100`:__ Since I don't customize the h2 database configuration properties in the `application.properties` file, the information used in the h2-console login page is all default.
+> 
+> | Field          | Value                 |
+> |----------------|-----------------------|
+> | Saved Settings | Generic H2 (Embedded) |
+> | Setting Name   | Generic H2 (Embedded) |
+> | Driver Class   | org.h2.Driver         |
+> | JDBC URL       | jdbc:h2:mem:testdb    |
+> | User Name      | sa                    |
+> | Password       |                       |
